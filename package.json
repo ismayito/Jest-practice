@@ -1,0 +1,16 @@
+{
+  "name": "jest-practice",
+  "version": "1.0.0",
+  "description": "This is a simple project of practicing unit testing using Jest and following the TDD method",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.3",
+    "jest-cli": "^29.6.3"
+  }
+}
